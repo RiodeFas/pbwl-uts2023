@@ -1,0 +1,14 @@
+{
+    "name": "asus/zakat-masjid-taqwa",
+    "description": "Sistem Informasi Zakat Masjid Taqwa",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Ridho Fasya",
+            "email": "mrfasya02@gmail.com"
+        }
+    ]
+}
